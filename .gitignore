@@ -10,3 +10,11 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+bin/AndroidManifest.xml
+bin/R.txt
+bin/jarlist.cache
+bin/res/drawable-hdpi/ic_launcher.png
+bin/res/drawable-mdpi/ic_launcher.png
+bin/res/drawable-xhdpi/ic_launcher.png
+gen/com/gz/tool/BuildConfig.java
+gen/com/gz/tool/R.java
